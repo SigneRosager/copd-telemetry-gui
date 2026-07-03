@@ -2,9 +2,9 @@
 
 This project is a PyQt5-based graphical user interface developed to support clinical interpretation of COPD patient telemetry data and precomputed alert outputs from an external prediction system.
 
-The interface visualizes selected patient measurements over time and displays prediction values alongside a relative contribution view for selected measurement types.
+The interface visualises selected patient measurements over time and displays prediction values alongside a relative contribution view for selected measurement types.
 
-![Demo screenshot](docs/screenshots/patient-overview-demo.png)
+![Demo screenshot](docs/screenshots/patient_overview_demo.png)
 
 ## Project context
 
