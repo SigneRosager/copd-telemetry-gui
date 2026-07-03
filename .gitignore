@@ -1,0 +1,26 @@
+# PyCharm / IDE files
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Private/original clinical data
+data/measurements.csv
+data/predictions.csv
+
+# Debug and temporary data files
+debug_predictions.csv
+matching_measurements_debug.csv
+data/debug_predictions.csv
+data/matching_measurements_debug.csv
+
+# System files
+.DS_Store
+Thumbs.db
