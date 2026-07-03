@@ -11,7 +11,7 @@ venv/
 .venv/
 env/
 
-# Private/original clinical data
+# Local/private data files not included in the public demo
 data/measurements.csv
 data/predictions.csv
 
